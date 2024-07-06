@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manish3Air
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning DSA and Javascript
 - 💞️ I’m looking to collaborate in software development programs
 - 📫 How to reach me email id manishpandey3365@gmail.com
 
