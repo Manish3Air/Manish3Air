@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm [Manish Raj Pandey]
 
-![Profile Banner](https://avatars.githubusercontent.com/u/138515911?v=4)
-
 ## About Me
 
 About Me
